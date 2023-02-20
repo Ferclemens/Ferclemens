@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [My portfolio to show projects and skills.](https://github.com/Ferclemens/vite-portfolio.git)
 
-- 🌱 I’m currently learning **Node.js - Express to databases management and D3.js to graph data.**
+- 🌱 I’m currently learning **Node.js - Express to databases management and D3.js - Chart.js to graph data.**
 
 - 👯 I’m looking to collaborate on **Web projects. UI and Backend develop.**
 
 - 👨‍💻 All of my projects are available at [https://ferclemens.netlify.app/](https://ferclemens.netlify.app/)
 
-- 💬 Ask me about **Work, project ideas, new tecnologies and memes.**
+- 💬 Ask me about **Work, project ideas, Javascript, designs and styles.**
 
 - 📫 How to reach me **foclemens@gmail.com**
 
