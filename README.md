@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">A passionate frontend developer from Chaco, Argentina.</h3>
 
-- 🔭 I’m currently working on [My portfolio to show projects and skills.](https://github.com/Ferclemens/vite-portfolio.git)
+- 🔭 I’m currently working on [Data analysis with Javascript sources, like Sheets.js and Charts.js](https://github.com/Ferclemens/tables-and-charts.git)
 
 - 🌱 I’m currently learning **Node.js - Express to databases management and D3.js - Chart.js to graph data.**
 
