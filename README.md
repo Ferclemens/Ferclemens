@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">A passionate frontend developer from Chaco, Argentina.</h3>
+<h3 align="center">A frontend developer from Chaco, Argentina.</h3>
 
 - 🔭 I’m currently working on [Data analysis with Javascript sources, like Sheets.js and Charts.js](https://github.com/Ferclemens/tables-and-charts.git)
 
