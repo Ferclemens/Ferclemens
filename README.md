@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">A frontend developer from Chaco, Argentina.</h3>
 
-- 🔭 I’m currently working on [Data analysis with Javascript sources, like Sheets.js and Charts.js](https://github.com/Ferclemens/tables-and-charts.git)
+- 🔭 I’m currently working on [Front end Mentor projects to update skills in styles](https://github.com/Ferclemens/tables-and-charts.git)
 
-- 🌱 I’m currently learning **Node.js - Express to databases management and D3.js - Chart.js to graph data.**
+- 🌱 I’m currently learning **Front End Mentor projects to improve my design and front end skills.**
 
 - 👯 I’m looking to collaborate on **Web projects. UI and Backend develop.**
 
