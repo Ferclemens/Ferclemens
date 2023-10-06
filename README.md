@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Scrimba challenges](https://github.com/Ferclemens/Scrimba-FrontendCareerPath-UnitConversor.git)
 
-- 🌱 I’m currently learning **Scrimba Frontend Career Path**
+- 🌱 I’m currently learning **Scrimba Frontend Career Path** and **Java for backend**
 
 - 👯 I’m looking to collaborate on **Web projects. UI and Backend develop.**
 
