@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">A frontend developer from Chaco, Argentina.</h3>
 
-- 🔭 I’m currently working on [Scrimba challenges](https://github.com/Ferclemens/Scrimba-FrontendCareerPath-UnitConversor.git)
+- 🔭 I’m currently working on personal portfolio to show my work -> https://ferclemensdev.netlify.app/
 
-- 🌱 I’m currently learning **Scrimba Frontend Career Path** and **Java for backend**
+- 🌱 I’m currently learning **Higher technical degree in software development** at I.T.F.S. Nº29
 
 - 👯 I’m looking to collaborate on **Web projects. UI and Backend develop.**
 
