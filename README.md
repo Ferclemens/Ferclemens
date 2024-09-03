@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">A frontend developer from Chaco, Argentina.</h3>
+<h3 align="center">A web developer from Chaco, Argentina.</h3>
 
-- 🔭 I’m currently working on personal portfolio to show my work -> https://ferclemensdev.netlify.app/
+- 🔭 I’m currently working on development of landing pages and web apps.
 
 - 🌱 I’m currently learning **Higher technical degree in software development** at I.T.F.S. Nº29
 
 - 👯 I’m looking to collaborate on **Web projects. UI and Backend develop.**
 
-- 👨‍💻 All of my projects are available at [https://ferclemens.netlify.app/](https://ferclemens.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ferclemensdev.netlify.app/](https://ferclemensdev.netlify.app/)
 
 - 💬 Ask me about **Work, project ideas, Javascript, designs and styles.**
 
