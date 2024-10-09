@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Higher technical degree in software development** at I.T.F.S. Nº29
 
-- 👯 I’m looking to collaborate on **Web projects. UI and Backend develop.**
+- 👯 I’m looking to collaborate on **Web projects. UI, Backend develop and data manipulation.**
 
 - 👨‍💻 All of my projects are available at [https://ferclemensdev.netlify.app/](https://ferclemensdev.netlify.app/)
 
-- 💬 Ask me about **Work, project ideas, Javascript, designs and styles.**
+- 💬 Ask me about **Work, project ideas, designs and data management.**
 
 - 📫 How to reach me **foclemens@gmail.com**
 
